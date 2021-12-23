@@ -577,3 +577,8 @@ a {
 	font-size: 12px;
 	letter-spacing: 0pt;
 }
+.video {
+    margin-left: auto;
+    margin-right: auto;
+    display: block
+}
